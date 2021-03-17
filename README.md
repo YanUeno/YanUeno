@@ -1,7 +1,7 @@
 <h1 align="center"> Hello World! I'm Yan Ueno 🙋🏾‍♂️</h1>
 
 ## ✏️ About me 
-## I live in the state of São Paulo - Brazil and I am in the second year as a computer technician at Colégio Univap - CTI 👩🏻‍💻. 
+## I live in the state of São Paulo - Brazil, im graduated in computer technician at Colégio Univap - CTI, and I intend to attend a college focused on technology! 👩🏻‍💻. 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yan-ueno)](https://www.linkedin.com/in/yan-ueno)
 [![Instagram Badge](https://img.shields.io/badge/-instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/yanueno/)](https://www.instagram.com/yanueno/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yanuenopivot@gmail.com)](mailto:yanuenopivot@gmail.com)
