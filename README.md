@@ -20,7 +20,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.instagram.com/yanueno/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sujeitoprogramador)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YanUeno&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YanUeno&layout=)](https://github.com/anuraghazra/github-readme-stats)
 ![Yan's GitHub stats](https://github-readme-stats.vercel.app/api?username=YanUeno&show_icons=true&theme=radical)
 ## Tecnologias que eu uso no meu dia
 
