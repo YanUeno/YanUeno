@@ -18,7 +18,7 @@
 
 <!-- [![Portifólio](https://img.shields.io/website?label=SujeitoProgramador.com&style=for-the-badge&url=https://sujeitoprogramador.com/)](https://yan-ueno.netlify.app/index.html)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.instagram.com/yanueno/) -->
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yanuneo)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yanueno)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YanUeno&layout=&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 ![Yan's GitHub stats](https://github-readme-stats.vercel.app/api?username=YanUeno&show_icons=true&theme=radical)
