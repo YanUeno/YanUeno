@@ -1,4 +1,4 @@
-<h1 align="center"> Hello World! I'm Yan Ueno 🙋🏾‍♂️</h1>
+## Olá! Eu sou o Yan Ueno 🙋🏾‍♂️
 
 <!-- ## ✏️ About me 
 ## I live in the state of São Paulo - Brazil, im graduated in computer technician at Colégio Univap - CTI And I intend to do a degree focused on technology! 👩🏻‍💻. 
@@ -14,7 +14,7 @@
 ![CSS Badge](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white/)
 ![MySQL Badge](https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white/)
 ![C Badge](https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white/) -->
-## Olá! Eu sou o Yan Ueno 🖐️
+
 
 <!-- [![Portifólio](https://img.shields.io/website?label=SujeitoProgramador.com&style=for-the-badge&url=https://sujeitoprogramador.com/)](https://yan-ueno.netlify.app/index.html)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.instagram.com/yanueno/) -->
