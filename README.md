@@ -1,7 +1,7 @@
 ### <div align="center">I'm Yan Ueno, a enthusiastic  full-stack developer 👨‍💻</div>  
   
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/YanUeno)  
+- 🔭 I’m currently working on [2RP NET](https://www.2rpnet.com.br/pt)  
   
 
 - 🌱 I’m currently learning Node.js  
@@ -69,15 +69,15 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/YanUeno" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
 <a href="https://linkedin.com/in/yan-ueno" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://instagram.com/yanueno" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
+<a href="mailto:email@provedor.com.br" target="_blank">
+    <img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;"/>
+</a>
 </div>  
   
 
@@ -94,20 +94,17 @@
   
 
 <br/>  
-
-  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=yanueno&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 
-<br />
+
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<div align="center">
+    <img src="https://komarev.com/ghpvc/?username=yanueno&&style=flat-square" align="center" />
+    </div>  
