@@ -1,7 +1,7 @@
 ### <div align="center">I'm Yan Ueno, a enthusiastic  full-stack developer 👨‍💻</div>  
   
 
-- 🔭 I’m currently working on [2RP NET](https://www.2rpnet.com.br/pt)  
+ - 🔭 I’m currently working on my own projetcs  
   
 
 - 🌱 I’m currently learning Node.js  
